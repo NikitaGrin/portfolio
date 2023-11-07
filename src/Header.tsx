@@ -4,7 +4,7 @@ function Header() {
   return (
     <header className=" flex flex-col items-start justify-between gap-6 md:flex-row md:items-center">
       <div className="inline-block rounded-lg bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 p-1 text-center">
-        <div className="bg-white p-2">
+        <div className="rounded-sm bg-white p-2">
           <h1 className="text-4xl font-extrabold ">Никита Гринь</h1>
           <p className="text-xl tracking-[-0.025rem]">
             Frontend разработчик (React)

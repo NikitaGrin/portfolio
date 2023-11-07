@@ -6,7 +6,7 @@ const projects = [
     name: "Портфолио",
     stack: ["React", "Tailwind"],
     link: "https://google.com",
-    image: "./src/img/project-1.png",
+    image: "/project-1.png",
   },
 ];
 
