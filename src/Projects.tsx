@@ -2,11 +2,20 @@ import ProjectItem from "./ProjectItem";
 
 const projects = [
   {
+    id: 2,
+    name: "Fast React Pizza",
+    stack: ["React", "Tailwind", "Redux"],
+    link: "https://pizza-ng.vercel.app/",
+    image: "/project-2.png",
+    repo: "https://github.com/NikitaGrin/pizza",
+  },
+  {
     id: 1,
     name: "Портфолио",
     stack: ["React", "Tailwind"],
-    link: "https://google.com",
+    link: "#",
     image: "/project-1.png",
+    repo: "https://github.com/NikitaGrin/portfolio",
   },
 ];
 
