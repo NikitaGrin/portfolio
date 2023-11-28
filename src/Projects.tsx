@@ -2,6 +2,14 @@ import ProjectItem from "./ProjectItem";
 
 const projects = [
   {
+    id: 3,
+    name: "Welbex",
+    stack: ["BEM"],
+    link: "https://nikitagrin.github.io/welbex/",
+    image: "/project-3.png",
+    repo: "https://github.com/NikitaGrin/welbex",
+  },
+  {
     id: 2,
     name: "Fast React Pizza",
     stack: ["React", "Tailwind", "Redux"],
