@@ -7,7 +7,7 @@ function Header() {
         <div className="rounded-sm bg-white p-2 dark:bg-neutral-900">
           <h1 className="text-4xl font-extrabold ">Никита Гринь</h1>
           <p className="text-xl tracking-[-0.025rem]">
-            Frontend разработчик (React)
+            Разработчик
           </p>
         </div>
       </div>
